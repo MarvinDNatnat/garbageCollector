@@ -181,115 +181,63 @@
       </div>
     </section> -->
 
-    <!-- <section id="scrollspyPortfolio" class="py-5 py-xl-8 bsb-section-py-xxl-1">
+    <section id="scrollspyPortfolio" class="py-5 py-xl-8 bsb-section-py-xxl-1">
       <div class="container mb-5 mb-md-6 mb-xl-10">
         <div class="row justify-content-md-center">
           <div class="col-12 col-md-10 col-lg-9 col-xl-8 col-xxl-7 text-center">
-            <h2 class="display-3 fw-bolder mb-4">Meet our portfolio to <br><mark class="bsb-tpl-highlight bsb-tpl-highlight-yellow"><span class="bsb-tpl-font-hw display-1 text-accent fw-normal">kickstart</span></mark> your success.</h2>
+            <h6 class="display-3 fw-bolder mb-4">Welcome to your Dashboard</h6>
           </div>
         </div>
       </div>
 
       <div class="container overflow-hidden">
-        <div class="row gy-2 g-md-2 g-xl-3 bsb-project-2-grid">
+        <div class="row gy-2 g-md-2 g-xl-3 bsb-project-2-grid " style="gap: 32px">
           <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale-up bsb-hover-scale" src="./assets/img/portfolio/project-landscape-1.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInLeft">Canvas Lover</h3>
-                <div class="text-white bsb-hover-fadeInRight">Photography</div>
-              </figcaption>
-            </figure>
+            <div class="card" style="width: auto;">
+              <div class="card-body">
+                <h5 class="card-title">Total Paid</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                
+               
+              </div>
+            </div>
           </div>
 
           <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale bsb-hover-scale-up" src="./assets/img/portfolio/project-portrait-1.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInUp">Red Lava</h3>
-                <div class="text-white bsb-hover-fadeInDown">Nature</div>
-              </figcaption>
-            </figure>
+            <div class="card" style="width: auto;">
+              <div class="card-body">
+                <h5 class="card-title">Total Pickups scheduled</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+            </div>
           </div>
 
           <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale-up bsb-hover-scale" src="./assets/img/portfolio/project-landscape-2.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInLeft">Jungle Book</h3>
-                <div class="text-white bsb-hover-fadeInRight">Adventure</div>
-              </figcaption>
-            </figure>
+            <div class="card" style="width: auto;">
+              <div class="card-body">
+                <h5 class="card-title">Upcoming Pickup</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+            </div>
           </div>
 
-          <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale bsb-hover-scale-up" src="./assets/img/portfolio/project-portrait-2.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInUp">Wavy Road</h3>
-                <div class="text-white bsb-hover-fadeInDown">Adventure</div>
-              </figcaption>
-            </figure>
-          </div>
-
-          <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale bsb-hover-scale-up" src="./assets/img/portfolio/project-portrait-3.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInUp">Golden Leaves</h3>
-                <div class="text-white bsb-hover-fadeInDown">Photography</div>
-              </figcaption>
-            </figure>
-          </div>
-
-          <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale bsb-hover-scale-up" src="./assets/img/portfolio/project-portrait-4.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInUp">Minimal Notions</h3>
-                <div class="text-white bsb-hover-fadeInDown">Design</div>
-              </figcaption>
-            </figure>
-          </div>
-
-          <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale-up bsb-hover-scale" src="./assets/img/portfolio/project-landscape-3.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInLeft">Bright Winks</h3>
-                <div class="text-white bsb-hover-fadeInRight">Design</div>
-              </figcaption>
-            </figure>
-          </div>
-
-          <div class="col-12 col-md-4 bsb-project-2-item">
-            <figure class="rounded rounded-3 overflow-hidden bsb-overlay-hover m-0">
-              <a href="#!">
-                <img class="img-fluid bsb-scale-up bsb-hover-scale" src="./assets/img/portfolio/project-landscape-4.jpg" alt="">
-              </a>
-              <figcaption>
-                <h3 class="text-white bsb-hover-fadeInLeft">Innovative Day</h3>
-                <div class="text-white bsb-hover-fadeInRight">Photography</div>
-              </figcaption>
-            </figure>
+          <div class="col-12 col-md-12 bsb-project-2-item">
+            <div class="card" style="width: auto;" >
+              <div class="card-body">
+                <h5 class="card-title" >Payment Status</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+            </div>
           </div>
         </div>
+
+
       </div>
-    </section> -->
+    </section>
 
     <!-- <section id="scrollspyAbout" class="bsb-tpl-bg-alice-blue py-5 py-xl-8 bsb-section-py-xxl-1">
       <div class="container">
